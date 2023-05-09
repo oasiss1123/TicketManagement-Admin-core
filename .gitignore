@@ -1,0 +1,19 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/dist/*
+/.env
+/build
+/.DS_Store
+
+jwt-data
+
+/public/images/*/*
+/public/files/*/*
+/public/sql
+
+/src/api/router.md
+/web.config
+
+/src/logs/*/*
